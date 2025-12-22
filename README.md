@@ -1,6 +1,4 @@
-# Nostrus
-
-Football betting model using Dixon-Coles + GBM ensemble for match prediction.
+# Football betting model using Dixon-Coles + GBM ensemble for match prediction.
 
 DISCLAIMER: This model will absolutely NOT make you money.
 
