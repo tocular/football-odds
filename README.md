@@ -24,10 +24,10 @@ DISCLAIMER: This model will absolutely NOT make you money.
 - Positive CLV indicates genuine predictive edge, not luck
 
 ### Betting Strategy (Tuned)
-- **8% minimum edge** threshold (reduced bet volume, higher quality)
+- **8% minimum edge** threshold
 - **10% Kelly fraction** (conservative sizing)
-- **5.0 max odds** (avoids longshot bias)
-- **Excludes draws** (hardest to predict accurately)
+- **5.0 max odds**
+- **Excludes draws**
 
 ## Setup
 
@@ -44,17 +44,6 @@ python run_pipeline.py
 # Collect fresh data
 python -m src.automation.collect_data
 ```
-
-## Latest Backtest Results (2023-2024)
-
-| Metric | Value |
-|--------|-------|
-| Total bets | 479 |
-| ROI | -17.62% |
-| Hit rate | 34.03% |
-| Max drawdown | 74.57% |
-| Avg edge | 13.59% |
-| Sharpe ratio | -3.43 |
 
 ## Structure
 
