@@ -11,7 +11,7 @@ DISCLAIMER: This model will absolutely NOT make you money.
 
 ## Data
 
-- **20,166 matches** from 5 leagues (Premier League, La Liga, Bundesliga, Serie A, Ligue 1)
+- Matches from 5 leagues **(Premier League, La Liga, Bundesliga, Serie A, Ligue 1)**
 - **Seasons**: 2015-2016 to 2024-2025
 - **xG coverage**: 99.96% (Understat)
 - **Odds**: Pinnacle closing lines
